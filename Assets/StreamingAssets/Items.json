@@ -1,0 +1,153 @@
+[ // Square Brackets act as our container
+	{ //Act as our object
+		"id": 0,
+		"title": "Steel Gloves",
+		"value" : 7,
+		"stats":
+		{
+			"power":1,
+			"defence":4,
+			"vitality":10
+		},
+		"description": "These gloves are hand crafted from steel",
+		"stackable": false,
+		"rarity": 2,
+		"sprite" : "steel_gloves"
+	},
+	{ //Act as our object	
+		"id": 1,
+		"title": "Steel Helm",
+		"value" : 12,
+		"stats":
+		{
+			"power":2,
+			"defence":6,
+			"vitality": 15
+		},
+		"description": "A helm made from hand crafted steel",
+		"stackable": false,
+		"rarity": 2,
+		"sprite" : "steel_helm"
+	},
+	{ //Act as our object
+		"id": 2,
+		"title": "Steel Platebody",
+		"value" : 20,
+		"stats":
+		{
+			"power":3,
+			"defence":8,
+			"vitality": 20
+		},
+		"description": "Made from the finest steel",
+		"stackable": false,
+		"rarity": 2,
+		"sprite" : "steel_platebody"
+	},
+	{ //Act as our object	
+		"id": 3,
+		"title": "Steel Leggings",
+		"value" : 18,
+		"stats":
+		{
+			"power":2,
+			"defence":6,
+			"vitality": 16
+		},
+		"description": "Made from the finest steel",
+		"stackable": false,
+		"rarity": 2,
+		"sprite" : "steel_leggings"
+	},
+	{ //Act as our object
+		"id": 4,
+		"title": "Steel 2Handed Sword",
+		"value" : 15,
+		"stats":
+		{
+			"power":10,
+			"defence":0,
+			"vitality": 0
+		},
+		"description": "Sharp af, watch out!",
+		"stackable": false,
+		"rarity": 2,
+		"sprite" : "steel_2H"
+	},
+	{ //Act as our object
+		"id": 5,
+		"title": "Pistol",
+		"value" : 50,
+		"stats":
+		{
+			"power":5,
+			"defence":0,
+			"vitality": 0
+		},
+		"description": "A standard pistol",
+		"stackable": false,
+		"rarity": 2,
+		"sprite" : "pistol"
+	},
+	{ //Act as our object
+		"id": 6,
+		"title": "Shotgun",
+		"value" : 500,
+		"stats":
+		{
+			"power":50,
+			"defence":0,
+			"vitality": 0
+		},
+		"description": "A powerful but short ranged gun",
+		"stackable": false,
+		"rarity": 6,
+		"sprite" : "shotgun"
+	},
+	{ //Act as our object
+		"id": 7,
+		"title": "Bomb",
+		"value" : 100,
+		"stats":
+		{
+			"power":20,
+			"defence":0,
+			"vitality": 0
+		},
+		"description": "Small AOE bomb",
+		"stackable": true,
+		"rarity": 4,
+		"sprite" : "bomb_small"
+	},
+	{ //Act as our object
+		"id": 8,
+		"title": "BigBomb",
+		"value" : 300,
+		"stats":
+		{
+			"power":50,
+			"defence":0,
+			"vitality": 0
+		},
+		"description": "Large AOE bomb",
+		"stackable": true,
+		"rarity": 6,
+		"sprite" : "bomb_big"
+	},
+	{ //Act as our object
+		"id": 9,
+		"title": "MotherOfAllBombs",
+		"value" : 500,
+		"stats":
+		{
+			"power":5000,
+			"defence":0,
+			"vitality": 0
+		},
+		"description": "Use this at your own risk...",
+		"stackable": true,
+		"rarity": 10,
+		"sprite" : "MOAB"
+	}
+
+]
